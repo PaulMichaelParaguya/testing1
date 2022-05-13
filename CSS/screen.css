@@ -1,0 +1,32 @@
+p {
+    color: gray;
+}
+
+footer p {
+    color: red;
+}
+
+h1 {
+    color: orange;
+    text-align: center;
+    font-size: 165%;
+	font-weight: normal;
+}
+
+header p {
+    color: green;
+}
+
+header p span {
+    color: blue;
+}
+
+.highlight {
+    color: crimson;
+    background-color: yellow;
+}
+
+.brand-color {
+    color: yellow;
+    background-color: blue;
+}
